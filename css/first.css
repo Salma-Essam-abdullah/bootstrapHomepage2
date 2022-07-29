@@ -1,0 +1,385 @@
+
+ 
+ /* main css */
+
+.btn-primary {
+    color: #2980b9;
+    background-color: #204d7400;
+    border-color: #2980b9;
+    border-radius: 0;
+    padding: 10px 15px;
+    font-weight: bold;
+    margin-bottom: 5px;
+
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
+
+
+/* custom  css */
+
+
+ .first-section{
+ 	background: url('../img/img1.jpg');
+ 	min-height: 520px;
+ 	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+ }
+ .first-section .navbar {
+ 	background-color: #EEE;
+ }
+
+ .first-section .navbar 
+ .navbar-brand{
+	color: black;
+	font-weight: bold;
+	font-size: 40px;
+
+}
+.first-section ul{
+	margin-top: 10px;
+
+}
+.first-section a{
+	color: black;
+	font-size: 15px;
+	font-weight: bold;
+	-webkit-transition:all 0.1s ease-in-out;
+	-moz-transition:all 0.1s ease-in-out;
+	-o-transition:all 0.1s ease-in-out;
+	transition:all 0.1s ease-in-out;
+	
+
+}
+.first-section .navbar .navbar-brand{
+border-bottom: transparent;
+}
+
+.first-section a:hover{
+	color: black;
+	border-bottom: 2px solid #2980b9;
+}
+.first-section li.active a{
+	border-bottom: 2px  solid white;
+}
+.first-section li.active a:hover{
+	color: #2980b9
+}
+
+.nav > li > a:hover, .nav > li > a:focus{
+	background-color: transparent;
+	
+}
+.first-section .btn-default {
+    color: #fff;
+    background-color: #fff0;
+    border-color: #ccc;
+    border-radius: 0 !IMPORTANT;
+    font-weight: bold;
+    border-color: #fff;
+    border-width: 3px;
+    padding: 16px 34px;
+    margin-bottom: 5px;
+}
+.first-section .btn-default:hover{
+	background-color:#FFF;
+	color: black;
+
+}
+.mid{
+	color: #FFF;
+	padding-top: 50px;
+}
+.mid h1{
+	font-size: 100px;
+	letter-spacing: 3px;
+	font-weight: bold;
+    text-shadow: 2px 2px 4px #000000;
+}
+.mid p{
+	padding-top: 10px;
+	font-size: 45px;
+	letter-spacing: 2px;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+
+
+
+.second-section{
+	background-color:#EEE;
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
+.second-section h3{
+	padding-bottom: 10px;
+	padding-top: 15px;
+	font-weight: bold;
+	margin-left: 10px;
+
+
+}
+.second-section p{
+	font-weight: 100;
+	color: #252525;
+	font-weight: 400;
+    font-size: 19px;
+    line-height: 1.6;
+    font-family: 'Montserrat', sans-serif;
+    margin: 3px 16px 9px;
+}
+
+}
+.second-section .media-body{
+	width:400px;
+}
+.box{
+	            height:5px;
+	            width:5px;
+	            background-color:#2980b9;
+                padding-top: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                padding-left: 30px;
+                color:#2980b9;
+                border-width: 15px 15px 15px 15px;
+                border-color: #2980b9;
+                border-style: solid;
+                border-radius: 70%
+                outline-color: #2980b9;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                margin-left: 20px;
+                position: relative;
+                left: 10px;
+}
+.second-section .k1{
+	color: #EEE;
+	margin-top: -33px;
+    margin-left: -28px;
+}
+.second-section .k2{
+	color: #EEE;
+	    margin-top: -33px;
+    margin-left: -31px;
+}
+.second-section .k3{
+	color: #EEE;
+	      margin-top: -35px;
+    margin-left: -25px;
+
+}
+.second-section  hr{
+	margin-top: -8px;
+	background-color:#2980b9;
+	height: 4px;
+	}
+.third-section h1{
+	font-weight: bold;
+}
+.third-section{
+	max-height: 500px;
+}
+.third-section hr{
+	width: 700px;
+	 border-bottom: 1px solid #c1c1c1;
+  margin-bottom: 70px;
+}
+.third-section p{
+	font-size: 18px;
+	font-weight: 100;
+	color: #252525;
+	font-weight: 400;
+    line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
+    margin: -20px 8px 9px;
+    padding-bottom: 40px;
+    margin: 0 0 10px;
+
+}
+.fourth-section{
+	min-height:500px;
+	background-color: #EEE;
+	padding-top: 71px;
+}
+
+ .fourth-section img{ 
+ 	padding-top: 0;
+ 	padding-bottom: 108px;
+    width: 600px;
+}
+.fourth-section h2{
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+.fourth-section p{
+	font-size: 18px;
+	font-weight: 100;
+	color: #252525;
+	font-weight: 400;
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.fifth-section {
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	background-image: url('../img/back1.jpg');
+	
+	max-height: 430px;
+	
+}
+.fifth-section hr{
+	width: 700px;
+	border-bottom: 1px solid #c1c1c1;
+    margin-bottom: 1em;
+}
+.fifth-section h1{
+	color: #FFF;
+	font-weight: bold;
+	margin-bottom: 30px;
+	margin-top: 50px;
+}
+.fifth-section .fif{
+	background-color: rgba(2,2,2,0.7);
+	color: #B6B5B5;
+	max-height: 430px;
+    padding-top: 50px;
+    padding-bottom: 133px;
+}
+
+.fifth-section p{
+	color: #FFF;
+	font-size: 30px;
+	font-weight: 100;
+	font-weight: 400;
+
+    font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px
+}
+.sixth-section {
+	min-height: 400px;
+}
+.sixth-section h1{
+	font-weight: bold;
+	margin-top: 100px;
+}
+.sixth-section hr{
+	width: 700px;
+    margin-bottom: 60px;}
+
+.sixth-section p{
+	padding-top: 30px;
+	font-size: 19px;
+	font-weight: 100;
+    font-family: 'Montserrat', sans-serif;
+    color:black;
+    text-align: left;
+    line-height: 40px;
+
+}
+.sixth-section .btn{
+	margin-top: -19px;
+    margin-bottom: 17px;
+}
+
+
+.fi{
+	
+	line-height: 30px;
+}
+.sec{
+	line-height: 40px;
+	
+}
+.thi{
+	line-height: 40px;
+	
+}
+
+.sixth-section .form-control{
+	    width: 88%;
+    height: 41px;
+    padding: 6px 12px;
+    font-size: 15px;
+        margin-bottom: 40px;
+}
+
+
+
+.seventh-section{
+
+	background-color: black;
+}
+.fon{
+	padding-top: 60px;
+	color: #8E8D8D;
+	min-height: 200px;
+
+}
+.fon i{
+	padding-right: 10px;
+	       border: 2px solid #8E8D8D;
+    padding: 8px;
+
+
+}
+.fonp{
+	color: #FFF;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 30px;
+	
+}
+.fon i{
+	cursor: pointer;
+}
+.fonp .sp{
+
+	color: #2980b9;
+	cursor: pointer;
+	 -webkit-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-o-transition:all 0.3s ease-in-out;
+	transition:all 0.3s ease-in-out;
+}
+.fonp .sp:hover{
+	color: #BE3232;
+
+}
+.sk{
+	color: #2980b9;
+	font-size: 25px;
+	cursor: pointer;
+	position: relative;
+    top: 64px;
+     font-size: 23px;
+     -webkit-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	-o-transition:all 0.3s ease-in-out;
+	transition:all 0.3s ease-in-out;
+}
+.sk:hover{
+	color: #BE3232;
+
+}
+
+
+
+@media all and (max-width: 600px) {
+	.third-section hr , .fifth-section hr , .sixth-section hr{
+	    width: 80%;
+	}
+}
